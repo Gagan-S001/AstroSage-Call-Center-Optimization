@@ -92,6 +92,6 @@ To monitor performance and ROI, the dashboard should track:
 -- Visualization & Reporting – Excel Dashboards 
 
 📈 DASHBOARD 
-LOOK LIKE -- ![Dashboard Preview].(https://github.com/Gagan-S001/AstroSage-Call-Center-Optimization/blob/main/AstroSage%20Analysis%20Dashboard.jpg)
+Dashboard LOOK LIKE -- ![Alt Text](https://github.com/Gagan-S001/AstroSage-Call-Center-Optimization/blob/main/AstroSage%20Analysis%20Dashboard.jpg)
 
 
