@@ -80,16 +80,16 @@ To monitor performance and ROI, the dashboard should track:
 
 🔮 Future Scope
 
---Implement predictive modeling to forecast call volumes & staffing needs.
---Deploy AI-based sentiment analysis on customer feedback.
---Integrate cloud-based CRM for seamless call handling.
---Expand automation with voice bots for Tier-1 queries.
+- Implement predictive modeling to forecast call volumes & staffing needs
+- Deploy AI-based sentiment analysis on customer feedback
+- Integrate cloud-based CRM for seamless call handling.
+- Expand automation with voice bots for Tier-1 queries.
 
 🙌 Contributors
 
---Data Analysis & Cleaning – Excel, Pivot Tables
--- Insights – Strategy & Investment Planning
--- Visualization & Reporting – Excel Dashboards 
+- Data Analysis & Cleaning – Excel, Pivot Tables
+- Insights – Strategy & Investment Planning
+- Visualization & Reporting – Excel Dashboards 
 
 📈 DASHBOARD 
 LOOK LIKE -- ![Dashoboard Preview](https://github.com/Gagan-S001/AstroSage-Call-Center-Optimization/blob/main/AstroSage%20Analysis%20Dashboard.jpg)
