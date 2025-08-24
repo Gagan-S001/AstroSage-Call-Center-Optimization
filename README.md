@@ -67,16 +67,16 @@ Technology Upgrades
 - Strategic Hiring (Peak-Time Staff): ₹15 Lakhs
 - Analytics & Monitoring Dashboards: ₹5 Lakhs
 
-📈 Final Dashboard Metrics
+#📈 Final Dashboard Metrics
 
 To monitor performance and ROI, the dashboard should track:
---Total Calls & Call Status Distribution
---Daily / Monthly Call Volume Trends
---Average Ratings by Month
---Top Performing Gurus
---Revenue by Consultation Type
---Peak Hour Call Distribution
---Operational Costs vs Sales
+- Total Calls & Call Status Distribution
+- Daily / Monthly Call Volume Trends
+- Average Ratings by Month
+- Top Performing Gurus
+- Revenue by Consultation Type
+- Peak Hour Call Distribution
+- Operational Costs vs Sales
 
 🔮 Future Scope
 
